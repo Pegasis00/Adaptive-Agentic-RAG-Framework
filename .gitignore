@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+data/uploads/
+data/faiss_index/
+*.faiss
+*.pkl
+.streamlit/secrets.toml
+.DS_Store
+.idea/
+.vscode/
